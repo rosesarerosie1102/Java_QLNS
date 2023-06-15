@@ -8,10 +8,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author thanhbm
- */
+
 public class EmployeeDAO {
     /*Select All By condition*/
 
