@@ -12,10 +12,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author thanhbm
- */
+
 public class ProjectDAO {
     /*selectAllProject method select all record from Projects table*/
 
