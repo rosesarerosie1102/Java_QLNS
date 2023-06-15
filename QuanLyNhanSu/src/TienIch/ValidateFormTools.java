@@ -7,10 +7,6 @@ package TienIch;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 
-/**
- *
- * @author Hoang Dong Tien
- */
 public class ValidateFormTools {
 
     public static boolean isFilledTextField(JTextField textfield, boolean trim) {
