@@ -4,10 +4,7 @@
  */
 package XyLyDuLieu;
 
-/**
- *
- * @author thanhbm
- */
+
 public class Project {
 
     private int projectID;
