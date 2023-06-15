@@ -8,10 +8,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author thanhbm
- */
+
 public class LocationDAO {
     /* selectAllLocation is a method for doing select all record form Locations table */
 
