@@ -4,10 +4,6 @@
  */
 package XyLyDuLieu;
 
-/**
- *
- * @author Thanh.BM
- */
 public class Department {
 
     private int departmentID;
