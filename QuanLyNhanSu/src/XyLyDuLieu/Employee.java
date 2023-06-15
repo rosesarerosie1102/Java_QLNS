@@ -1,7 +1,7 @@
 package XyLyDuLieu;
 
 
-/*Author : Thanh.BM, Hoang Dong Tien*/
+
 public class Employee {
 
     private int employeeID;
