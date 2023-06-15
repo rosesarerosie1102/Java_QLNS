@@ -18,10 +18,7 @@ import java.util.Vector;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author thanhbm
- */
+
 public class PnlUserDepartmentList extends javax.swing.JPanel {
 
     /** Tạo form RoleEmployeeUIPanel */
