@@ -20,10 +20,6 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Hoang Dong Tien
- */
 public class PnlAdminEmployeeManage extends javax.swing.JPanel {
 
     /** Creates new form EmployeeUIPanel */
