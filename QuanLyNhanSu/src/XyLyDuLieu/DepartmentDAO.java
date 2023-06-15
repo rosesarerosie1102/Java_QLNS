@@ -4,10 +4,7 @@
  */
 package XyLyDuLieu;
 
-/**
- *
- * @author Thanh.BM
- */
+
 import java.sql.Connection;
 import TienIch.EmpConnection;
 import java.sql.PreparedStatement;
@@ -16,10 +13,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author thanhbm
- */
+
 public class DepartmentDAO {
     /*selectAllDepartment method get all record from Departments Table*/
 
