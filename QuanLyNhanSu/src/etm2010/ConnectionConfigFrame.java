@@ -24,7 +24,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Hoang Dong Tien
+ * @author
  */
 public class ConnectionConfigFrame extends javax.swing.JFrame {
 
