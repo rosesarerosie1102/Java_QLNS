@@ -6,7 +6,6 @@
 /*
  * ConnectionConfigFrame.java
  *
- * Created on 06-05-2010, 14:18:59
  */
 
 package etm2010;
