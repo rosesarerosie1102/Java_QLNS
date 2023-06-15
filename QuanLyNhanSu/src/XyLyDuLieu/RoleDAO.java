@@ -12,10 +12,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author thanhbm
- */
+
 public class RoleDAO {
     /*selectAllRole get all of Role from Roles table, after that insert all record into List<Role>*/
 
